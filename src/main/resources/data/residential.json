@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "House 1",
+    "price": 300000.0,
+    "size": 120.0,
+    "imagesUrl": [
+      "https://i.imgur.com/ODcRwbp.jpeg"
+    ],
+    "location": "48.8566,2.3522"
+  },
+  {
+    "id": 2,
+    "name": "House 2",
+    "price": 250000.0,
+    "size": 100.0,
+    "imagesUrl": [
+      "https://i.imgur.com/QjH1Ol1.jpeg",
+      "https://i.imgur.com/Ivcq7T9.jpeg"
+    ],
+    "location": "52.5200,13.4050"
+  }
+]

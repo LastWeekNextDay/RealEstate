@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Land1",
+    "price": 200000.0,
+    "size": 500.0,
+    "imagesUrl": [
+      "https://i.imgur.com/LMWilDC.jpeg"
+    ],
+    "location": "-33.8688,151.2093"
+  },
+  {
+    "id": 2,
+    "name": "Land2",
+    "price": 150000.0,
+    "size": 450.0,
+    "imagesUrl": [
+      "https://i.imgur.com/7vWrvTX.jpeg"
+    ],
+    "location": "-37.8136,144.9631"
+  }
+]

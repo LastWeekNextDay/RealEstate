@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Com1",
+    "price": 500000.0,
+    "size": 300.0,
+    "imagesUrl": [
+      "https://i.imgur.com/mJk6Qzk.jpeg",
+      "https://i.imgur.com/HY0Mvp0.jpeg",
+      "https://i.imgur.com/c0wW4lG.jpeg",
+      "https://i.imgur.com/9CJNvB8.jpeg"
+    ],
+    "location": "40.7128,-74.0060"
+  },
+  {
+    "id": 2,
+    "name": "Com2",
+    "price": 450000.0,
+    "size": 250.0,
+    "imagesUrl": [
+      "https://i.imgur.com/dOMeba8.jpeg"
+    ],
+    "location": "34.0522,-118.2437"
+  },
+  {
+    "id": 3,
+    "name": "Com3",
+    "price": 550000.0,
+    "size": 350.0,
+    "imagesUrl": [
+      "https://i.imgur.com/PLbl1Rh.jpeg"
+    ],
+    "location": "51.5074,-0.1278"
+  },
+  {
+    "id": 4,
+    "name": "Com4",
+    "price": 600000.0,
+    "size": 400.0,
+    "imagesUrl": [
+      "https://i.imgur.com/WqbdasJ.jpeg",
+      "https://i.imgur.com/sPFCWAh.jpeg"
+    ],
+    "location": "35.6895,139.6917"
+  }
+]
